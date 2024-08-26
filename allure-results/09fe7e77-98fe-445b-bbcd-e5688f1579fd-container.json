@@ -1,0 +1,1 @@
+{"uuid":"09fe7e77-98fe-445b-bbcd-e5688f1579fd","name":"Suite","children":["f40ee794-b810-406d-8ef3-9422d2f6edab"],"befores":[{"name":"extendStratup","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1724233709750,"stop":1724233709945}],"afters":[],"start":1724233709731,"stop":1724233719425}
